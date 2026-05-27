@@ -1,7 +1,7 @@
 ## Hi, I'm Satyam 👋
 
 M.Tech Transportation Systems Engineering · **IIT Guwahati** 
-# Working on physics-injected deep learning for **trajectory prediction in heterogeneous traffic**.
+Working on physics-injected deep learning for **trajectory prediction in heterogeneous traffic**.
 
 ### 🚦 Currently
 
