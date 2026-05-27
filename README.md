@@ -14,7 +14,7 @@ Motion forecasting · Graph Neural Networks · Safety-aware learning · Autonomo
 
 ### 📫 Reach me
 
-[satyamk4517@iitg.ac.in](mailto:satyamk4517@iitg.ac.in) · [LinkedIn](https://www.linkedin.com/in/satyam-kumar-a8b25b1b2)## Hi there 👋
+[satyamk4517@iitg.ac.in](mailto:satyamk4517@iitg.ac.in) · [LinkedIn](https://www.linkedin.com/in/satyam-kumar-a8b25b1b2)
 
 <!--
 **satyamk4517/satyamk4517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
