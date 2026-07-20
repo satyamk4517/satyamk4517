@@ -16,4 +16,4 @@ Motion forecasting · Heterogeneous & lane-free traffic · Physics-informed deep
 
 ### 📫 Reach me
 
-[satyamk4517@iitg.ac.in](mailto:satyamk4517@iitg.ac.in) · [LinkedIn](https://www.linkedin.com/in/satyam-kumar-a8b25b1b2)
+[satyamk4517@iitg.ac.in](mailto:satyamk4517@iitg.ac.in) · [LinkedIn](https://www.linkedin.com/in/satyam-kumar-4517-iitg)
